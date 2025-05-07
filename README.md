@@ -1,6 +1,8 @@
 # Pirfix Printer (Windwos Desktop App)
 
-Electron-Quasar Desktop Project to print Labels and Receipts to Thermal Printers, Something Like POS Printer.
+Electron Desktop Project to print Labels and Receipts to Thermal Printers, .
+
+A modern Electron application that handle print Labels & Receipt to thermal printers, Something like POS Printer, showcasing clean architecture and efficient state management. Built with Quasar Framework and TypeScript for robust cross-platform performance.
 
 ## Install the dependencies
 
