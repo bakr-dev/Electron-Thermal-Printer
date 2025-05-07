@@ -1,4 +1,4 @@
-# Pirfix Printer (desktop-printer)
+# Pirfix Printer (Windwos Desktop POS Printer)
 
 Electron-Quasar Desktop Project to print Labels and Receipts to Thermal Printers
 
