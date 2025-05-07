@@ -1,8 +1,8 @@
 {
   "name": "desktop-printer",
   "version": "0.0.1",
-  "description": "A Quasar Desktop Project for Tspl & EscPos Printers",
-  "productName": "Quasar App",
+  "description": "Electron-Quasar Desktop Project for Thermal Printers",
+  "productName": "Pirfix Printer",
   "author": "Abubakr",
   "type": "module",
   "private": true,
