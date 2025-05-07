@@ -2,7 +2,8 @@
 
 A modern Electron application that handle print Labels & Receipt to thermal printers, Something like POS Printer, showcasing clean architecture and efficient state management. Built with Quasar Framework and TypeScript for robust cross-platform performance.
 
-![20250507_214920](https://github.com/user-attachments/assets/cffb8045-63c1-4288-90c5-5ee2513240d5)
+
+![20250507_214920 - Copy](https://github.com/user-attachments/assets/875c11e3-57e6-4a78-b33d-8e3319198557)
 
 
 ## Install the dependencies
