@@ -1,1 +1,19 @@
 // app global css in SCSS form
+
+// drawer nav
+// .q-drawer {
+//   .q-item {
+//     opacity: 0.6;
+//     &.q-router-link-exact-active {
+//       opacity: 1;
+//     }
+//   }
+// }
+
+// fonts
+@font-face {
+  font-family: 'Dubai'; /* Name your font */
+  src: url('/fonts/Dubai-Regular.ttf') format('truetype'); /* Path to your .ttf file */
+  font-weight: normal;
+  font-style: normal;
+}
