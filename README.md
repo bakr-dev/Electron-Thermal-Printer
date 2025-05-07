@@ -1,6 +1,6 @@
-# Pirfix Printer (Windwos Desktop POS Printer)
+# Pirfix Printer (Windwos Desktop App)
 
-Electron-Quasar Desktop Project to print Labels and Receipts to Thermal Printers
+Electron-Quasar Desktop Project to print Labels and Receipts to Thermal Printers, Something Like POS Printer.
 
 ## Install the dependencies
 
