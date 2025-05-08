@@ -14,47 +14,18 @@ A modern Electron application that handle print Labels & Receipt to thermal prin
 
 3-The C++ addon was programmed to work with all types of thermal printers via the driver, not just for specific types like (TSPL - ESCPOS - ZPL).
 
-4-It supports more than one template, with the possibility of adding additional templates later.
+4-The addon is installed in the application as a Module Package.
 
-5-This program can later be linked to an API to print data sent over the internet.
+5-The application is configured to print labels and receipts. with support for more than one template, with the possibility to add additional templates later.
+
+6-This program can later be linked to an API to print data sent over the internet.
 
 
-## Install the dependencies
+## How To Use
 
-```bash
-yarn
-# or
-npm install
-```
+Of course, the use is very simple, just set up the printer with these steps:
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+![image](https://github.com/user-attachments/assets/05e716fc-caa0-421e-8df2-f78778d5956b)
 
-```bash
-quasar dev
-```
+![image](https://github.com/user-attachments/assets/b8defdbc-d275-402b-86f8-debfc232a288)
 
-### Lint the files
-
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-### Format the files
-
-```bash
-yarn format
-# or
-npm run format
-```
-
-### Build the app for production
-
-```bash
-quasar build
-```
-
-### Customize the configuration
-
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
