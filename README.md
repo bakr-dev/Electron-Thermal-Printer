@@ -8,24 +8,31 @@ A modern Electron application that handle print Labels & Receipt to thermal prin
 
 ## Features
 
-1-This application is built based on a C++ addon that supports printing images via thermal printers.
+1- This application is built based on a C++ addon that supports printing images via thermal printers.
 
-2-This addon was specifically coded for this program from scratch with the help of AI Chat code.
+2- This addon was specifically coded for this program from scratch with the help of AI Chat code.
 
-3-The C++ addon was programmed to work with all types of thermal printers via the driver, not just for specific types like (TSPL - ESCPOS - ZPL).
+3- The C++ addon was programmed to work with all types of thermal printers via the driver, not just for specific types like (TSPL - ESCPOS - ZPL).
 
-4-The addon is installed in the application as a Module Package.
+4- The addon is installed in the application as a Module Package.
 
-5-The application is configured to print labels and receipts. with support for more than one template, with the possibility to add additional templates later.
+5- The application is configured to print labels and receipts. with support for more than one template, with the possibility to add additional templates later.
 
-6-This program can later be linked to an API to print data sent over the internet.
+6- This program can later be linked to an API to print data sent over the internet.
 
 
 ## How To Use
 
 Of course, the use is very simple, just set up the printer with these steps:
-
+1- Label Printer Settings:
 ![image](https://github.com/user-attachments/assets/05e716fc-caa0-421e-8df2-f78778d5956b)
 
+2- Receipt Printer Settings:
+![image](https://github.com/user-attachments/assets/55a600f6-f34a-4c86-8ded-bd1693cee73d)
+
+3- Go to Maintenance Registeration Form, and input some data to print label and receipt:
 ![image](https://github.com/user-attachments/assets/b8defdbc-d275-402b-86f8-debfc232a288)
 
+4- Result:
+
+![20250507_214920 - Copy](https://github.com/user-attachments/assets/875c11e3-57e6-4a78-b33d-8e3319198557)
