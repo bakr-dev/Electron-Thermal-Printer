@@ -6,6 +6,19 @@ A modern Electron application that handle print Labels & Receipt to thermal prin
 ![20250507_214920 - Copy](https://github.com/user-attachments/assets/875c11e3-57e6-4a78-b33d-8e3319198557)
 
 
+## Features
+
+1-This application is built based on a C++ addon that supports printing images via thermal printers.
+
+2-This addon was specifically coded for this program from scratch with the help of AI Chat code.
+
+3-The C++ addon was programmed to work with all types of thermal printers via the driver, not just for specific types like (TSPL - ESCPOS - ZPL).
+
+4-It supports more than one template, with the possibility of adding additional templates later.
+
+5-This program can later be linked to an API to print data sent over the internet.
+
+
 ## Install the dependencies
 
 ```bash
